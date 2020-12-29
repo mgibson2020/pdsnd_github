@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+Tuesday, December 29, 2020
 
 ### Project Title
-Replace the Project Title
+Bike Share Github Project
 
 ### Description
-Describe what your project is about and what it does
+The project that is suppse to be used here is for the python class. Since I'm in the R class I didn't do the python project. I have an HTML and txt file instead
 
 ### Files used
-Include the files used
+bikeshare.txt
+index.html
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project is dedicated to Udacity
 
